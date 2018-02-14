@@ -1,0 +1,34 @@
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\bin\Debug\BeatMakerWPF.exe.config
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.csprojResolveAssemblyReference.cache
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\obj\Debug\MainWindow.g.cs
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\obj\Debug\App.g.cs
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF_MarkupCompile.cache
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF_MarkupCompile.lref
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\bin\Debug\BeatMakerWPF.exe
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\bin\Debug\BeatMakerWPF.pdb
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\obj\Debug\MainWindow.baml
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.g.resources
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.Properties.Resources.resources
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.csproj.GenerateResource.Cache
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.exe
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.pdb
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\bin\Debug\AxInterop.WMPLib.dll
+c:\users\vlad1\documents\visual studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\bin\Debug\Interop.WMPLib.dll
+C:\Users\vlad1\Documents\Visual Studio 2015\Projects\BeatMakerWPF\BeatMakerWPF\obj\Debug\App.baml
+D:\Download\BeatMakerWPF\BeatMakerWPF\bin\Debug\BeatMakerWPF.exe.config
+D:\Download\BeatMakerWPF\BeatMakerWPF\bin\Debug\BeatMakerWPF.exe
+D:\Download\BeatMakerWPF\BeatMakerWPF\bin\Debug\BeatMakerWPF.pdb
+D:\Download\BeatMakerWPF\BeatMakerWPF\bin\Debug\Interop.WMPLib.dll
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.csprojResolveAssemblyReference.cache
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\MainWindow.g.cs
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\App.g.cs
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF_MarkupCompile.cache
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF_MarkupCompile.lref
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\App.baml
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\MainWindow.baml
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.g.resources
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.Properties.Resources.resources
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.csproj.GenerateResource.Cache
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.csproj.CoreCompileInputs.cache
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.exe
+D:\Download\BeatMakerWPF\BeatMakerWPF\obj\Debug\BeatMakerWPF.pdb
